@@ -1,5 +1,12 @@
-# MocRate
+# MocRate: A Portable Pulse Oximeter
 
-1. This project is a portable heart rate and pulse oximeter to measure the vitals of the user and display them on an energy-efficient electronic ink display. It will utilize a pulse oximeter breakout board from sparkfun to measure the vitals of the patient, which will then be displayed on the waveshare 4.2 inch e-ink display.
-2. We aim for this monitor to be battery-powered by AA batteries (that can be recharged.) The end product will be a comfortable size that can be easily held by average human
-hands. Additionally, it will be lightweight and trivial to carry around for the user’s needs. The accuracy of the monitor to be as accurate as the breakout board, the SparkFun Oximeter and Heart Rate Sensor, allows us to. According to the design specifications, it is high fidelity and the margin of error is minimal.
+## Detecting a patient’s heart rate and oxygen is a very common practice in the medical world. Due to this, a solution for a portable and user friendly monitor for efficient use is crucial.  In this project, we have designed and deployed a battery-powered and portable sensor that can quickly get an individuals heart rate by them simply placing their finger into a clip that measure their heart rate and oxygen levels and provide them that information quickly and clearly.
+
+## Components
+1. SparkFun Pulse Oximeter and Heart Rate Sensor -MAX30101 & MAX32664 (~42.50 USD)
+2. Arduino Uno Rev3 (~25.29 USD)
+3. AA Batteries (~3.00 USD)
+4. AA Battery Holder (~6.48 USD for 6)
+5. Waveshare 4.2inch E-Ink Display (~34.99 USD)
+6. Power Button (~2.00 USD)
+7. 3D Printed Chassis (Price Varies)
