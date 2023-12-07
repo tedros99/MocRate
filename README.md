@@ -19,8 +19,13 @@ NOT FINGER - The object detected is not a human finger.
 MEASURING - The finger is successfully detected and is being measured.
 UNKNOWN - Internal error, should almost never occur.
 
+## Testing
+Shown in the Poster.pdf is an example of the device in action. The subject places their index finger within the clip and subject’s readings are displayed on the screen of the device.
+
+Tested on one subject with 5 trials, the readings are nearly as accurate as the common pulse oximeter found in commericial and professional markets. The margins of error are presented below.
+
 ## Results and Conclusions
-After thorough testing, we can comfortably say that the final product is sufficiently accurate and suitable for commercial and personal use. In comparison to our reference device, the margin of error for heart rate and blood oxygen was only ±1 BPM and ±1%, respectively.
+After thorough testing, we can comfortably say that the final product is sufficiently accurate and suitable for commercial and personal use. In comparison to our reference device, the margin of error for heart rate and blood oxygen was only ±1 BPM and ±1%, respectively. 
 
 Additionally, we noticed that in order for the patient to successfully get their results, they need to place the bottom of their fingers flat on the sensor; the fingertip does not suffice.
 
